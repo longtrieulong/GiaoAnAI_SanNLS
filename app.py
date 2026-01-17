@@ -245,4 +245,4 @@ if st.button("🚀 SOẠN GIÁO ÁN NGAY", type="primary", use_container_width=T
 
 # --- CHÂN TRANG ---
 st.markdown("---")
-st.markdown("<div style='text-align: center; color: #666;'>© 2025 - Lù Seo Sần - Trường PTDTBT Tiểu học Bản Ngò - ĐT: 097 1986 343</div>", unsafe_allow_html=True)
+st.markdown("<div style='text-align: center; color: #666;'>© 2025 - Triệu Văn Long - Trường PTDTBT Tiểu học Hương Sơn - ĐT:</div>", unsafe_allow_html=True)
